@@ -73,3 +73,20 @@ aspergillus-germination-analysis/
 ├── data/                   # CSV files (raw or cleaned)
 ├── plots/                  # (Optional) saved figures
 └── README.md               # This file
+---
+
+## 📦 Tools & Libraries Used
+
+- R / RStudio
+- `ggplot2` — visualization
+- `dplyr`, `tidyr`, `stringr`, `zoo` — data wrangling
+- `germinationmetrics` — germination indices
+- `knitr`, `rmarkdown` — report generation
+
+---
+
+## 👩‍🔬 Author
+
+**Maryam Ijadpanahsaravi**  
+PhD Researcher in Fungal Physiology and Biotechnology  
+📧 *m.ijadpanahsaravi@uu.nl*  
