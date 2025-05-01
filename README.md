@@ -29,9 +29,9 @@ This follow-up experiment investigates the effect of **increasing cysteine conce
 
 | Species               | RPubs Report                                     |
 |-----------------------|--------------------------------------------------|
-| *Aspergillus niger*   | [View on RPubs](https://rpubs.com/maryams/1304450) |
-| *Aspergillus oryzae*  | [View on RPubs](https://rpubs.com/maryams/1304453) |
-| *Aspergillus clavatus*| [View on RPubs](https://rpubs.com/maryams/1304454) |
+| *Aspergillus niger*   | [View on RPubs](https://rpubs.com/maryams/1304797)|
+| *Aspergillus oryzae*  | [View on RPubs](https://rpubs.com/maryams/1304800)|
+| *Aspergillus clavatus*| [View on RPubs](https://rpubs.com/maryams/1304795)|
 
 ---
 
